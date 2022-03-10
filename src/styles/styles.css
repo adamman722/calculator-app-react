@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  background-color: blue;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.idk-container {
+  width: 90%;
+}
+.idk-container .flex-container {
+  background-color: red;
+}
+.idk-container .numbers-box {
+  background-color: aqua;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  background-color: blue;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.idk-container {
+  width: 90%;
+  .flex-container {
+    background-color: red;
+  }
+  .numbers-box {
+    background-color: aqua;
+  }
+}
